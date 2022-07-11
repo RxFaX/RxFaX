@@ -1,4 +1,4 @@
-## Hola Mi Nombre es Jesus Rafael <img src="https://media2.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="5px" aling = "center"></a>
+## Hola Mi Nombre es Jesus Rafael <img src="https://media2.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="5px" align="center"></a>
 Soy Un Estudiante de la Carrera de Ingenieria
 
 ## ⚡ Skills:
